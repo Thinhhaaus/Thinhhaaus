@@ -1,7 +1,7 @@
 ## 🌐 Hi, I'm Nguyễn Đức Thịnh
 
 <div align="center">
-  <img src="https://tenor.com/view/waal-boyss-awall-waall-nabila-keren-gif" width="500" alt="Coding Animation" style="border-radius: 15px;"/>
+  <img src="https://tenor.com/kBrf5PrXj3.gif" width="500" alt="Coding Animation" style="border-radius: 15px;"/>
 </div>
 
 🚀 Front-End Developer | Aspiring Full-Stack Developer
