@@ -34,6 +34,8 @@ Version Control: Git & GitHub
 
 🔹 SFood – A food delivery app with a sleek UI. (React, Firebase)
 
+🔹 Youtube_clone
+
 🌱 Currently Exploring
 
 🔹 Advanced React concepts & performance optimizations
