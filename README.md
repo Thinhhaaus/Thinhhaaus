@@ -1,4 +1,7 @@
 ## 🌐 Hi, I'm Nguyễn Đức Thịnh
+
+https://media1.tenor.com/m/OoeVJNfRyfEAAAAC/vincenzo-kdrama.gif
+
 🚀 Front-End Developer | Aspiring Full-Stack Developer
 
 I have a passion for crafting elegant, responsive, and user-friendly digital experiences.
