@@ -1,9 +1,8 @@
 ## 🌐 Hi, I'm Nguyễn Đức Thịnh
 
 <div align="center">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZteGVnc2J0MW42cG80ZDgzcXo4d2RzdGphZjZhZ2Fxb3hseXlhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cRHgphdnVZMtRLZlT1/giphy.gif](https://tenor.com/view/vincenzo-kdrama-netflix-party-geumga-plaza-gif-21004117)" width="500" alt="Coding Animation" style="border-radius: 15px;"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZteGVnc2J0MW42cG80ZDgzcXo4d2RzdGphZjZhZ2Fxb3hseXlhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cRHgphdnVZMtRLZlT1/giphy.gif" width="500" alt="Coding Animation" style="border-radius: 15px;"/>
 </div>
-
 🚀 Front-End Developer | Aspiring Full-Stack Developer
 
 I have a passion for crafting elegant, responsive, and user-friendly digital experiences.
