@@ -27,11 +27,7 @@ Version Control: Git & GitHub
 🔹 Cloud deployment with AWS
 
 📫 Let's Connect
-![image](https://github.com/user-attachments/assets/7526dc3e-78db-4d25-8427-4c9f4169f560)
-
-https://www.facebook.com/ducthinhh69
-
-![image](https://github.com/user-attachments/assets/4d665fdb-f685-4393-aa23-ad20d99ffde8)
+Gmail    Facebook    Instagram
 
 
 <!--
