@@ -4,6 +4,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdkZ2t1azNmYWgxd2tlZjJzMDU1cjk5ajlkZDA2dnIybTJ6NzQydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="500" alt="Coding Animation" style="border-radius: 15px;"/>
 </div>
 
+
 🚀 Front-End Developer | Aspiring Full-Stack Developer
 
 I have a passion for crafting elegant, responsive, and user-friendly digital experiences.
