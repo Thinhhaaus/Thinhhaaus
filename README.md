@@ -7,27 +7,44 @@ My journey began with curiosity about building web apps, and now I’m focused o
 🎯 My goal: To become a full-stack developer with an emphasis on premium front-end experiences.
 
 🛠️ Tech Stack
+
 🌟 Frontend
+
 Languages: JavaScript, TypeScript, HTML, CSS, SCSS
+
 Frameworks & Libraries: React, Next.js
+
 UI/UX: Figma
+
 ⚙️ Backend & Tools
+
 Languages: JavaScript, C#
+
 Backend: Node.js, Express
+
 Databases: MongoDB
+
 Version Control: Git & GitHub
+
 🚀 Projects
+
 🔹 WorkClock – A time-tracking app for productivity. (React, Node.js, MongoDB)
+
 🔹 KoiVeterinaryServiceCenter – An e-commerce platform for Koi fish & accessories. (React, Express, MongoDB)
+
 🔹 SFood – A food delivery app with a sleek UI. (React, Firebase)
 
 🌱 Currently Exploring
+
 🔹 Advanced React concepts & performance optimizations
+
 🔹 Backend development with Node.js & Express
+
 🔹 Cloud deployment with AWS
 
+
 📫 Let's Connect
-Gmail    Facebook    Instagram
+
 
 
 <!--
